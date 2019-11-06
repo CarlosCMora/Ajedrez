@@ -2,6 +2,7 @@
 #define FUNCIONES_H
 
 #include<stdio.h>
+#include<ctype.h>
 #include "coordenadas.h"
 
 coord leer();
